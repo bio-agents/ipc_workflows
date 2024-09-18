@@ -1,0 +1,7 @@
+output_dir: "result"
+counts:
+  - class: File
+    location: sample_data/sample1_data.csv
+metadata:
+  - class: File
+    location: sample_data/sample1_metadata.csv

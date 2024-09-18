@@ -1,0 +1,7 @@
+test*
+
+*.sif
+*.csv
+*.dot
+*.png
+*.packed.cwl

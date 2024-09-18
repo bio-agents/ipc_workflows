@@ -1,0 +1,10 @@
+fastq_files:
+  - class: File
+    location: tumor_read1.fq.gz
+  - class: File
+    location: tumor_read2.fq.gz
+reference_fasta:
+  class: File
+  location: hg38.fa.gz
+readgroup: '@RG\tID:tumor.HCC1143\tLB:tumor.HCC1143\tPL:ILLUMINA\tSM:HCC1143'
+sample_name: 'tumor'

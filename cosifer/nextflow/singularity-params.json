@@ -1,0 +1,4 @@
+docker.enabled = false
+singularity.enabled = true
+singularity.runOptions = '--userns'
+singularity.autoMounts = true

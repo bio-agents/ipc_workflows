@@ -1,0 +1,10 @@
+fastq_files:
+  - class: File
+    location: normal_read1.fq.gz
+  - class: File
+    location: normal_read2.fq.gz
+reference_fasta:
+  class: File
+  location: hg38.fa.gz
+readgroup: '@RG\tID:normal.HCC1143\tLB:normal.HCC1143\tPL:ILLUMINA\tSM:HCC1143'
+sample_name: 'normal'

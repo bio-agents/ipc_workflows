@@ -1,0 +1,6 @@
+data_matrix: 
+  class: File
+  location: "reduced-pbta-gene-expression-rsem-fpkm-collapsed.polya.csv"
+outdir: "tests/collapsed.polya/"
+separator: ","
+samples_on_rows: true
