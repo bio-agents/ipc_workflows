@@ -1,14 +1,3 @@
-{
-    "name": "Exome SAMagents Workflow",
-    "homePage": "https://github.com/inab/ipc_workflows/tree/main/exome/samagents",
-    "repos": {
-        "nf-core/modules": {
-            "bcfagents/mpileup": {
-                "git_sha": "c5235a983d454787fa0c3247b02086969217163b"
-            },
-            "samagents/mpileup": {
-                "git_sha": "c5235a983d454787fa0c3247b02086969217163b"
-            }
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb39feca92195f48aaa16498f1ef70fda2c13ad4dfcd1e8d5d1265bbf7cbe0e0
+size 425

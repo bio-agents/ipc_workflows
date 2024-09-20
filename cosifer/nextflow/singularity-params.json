@@ -1,4 +1,3 @@
-docker.enabled = false
-singularity.enabled = true
-singularity.runOptions = '--userns'
-singularity.autoMounts = true
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1aab93f8cdea0d127aed373142cc92765e81eb38987569b30e2199a88e1d3d8
+size 120
